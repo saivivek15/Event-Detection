@@ -42,6 +42,8 @@ Notes:
 References:
 
  -> Scraper - https://github.com/openeventdata/scraper 
- 
+
  -> Semafor Tool(CMU)- https://github.com/Noahs-ARK/semafor
  (http://www.ark.cs.cmu.edu/SEMAFOR)
+
+ -> Dataset: http://eventdata.parusanalytics.com/data.dir/atrocities.html
