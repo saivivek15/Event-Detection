@@ -1,0 +1,1 @@
+[{'Victim': [u'Many people including 2 policemen']}, {'Victim': [u'they']}, {'Victim': [u'explosives', u'on worshippers']}, {'Victim': [u'some houses', u'two policemen , an Inspector and a Sergeant who were on guard in the church']}]

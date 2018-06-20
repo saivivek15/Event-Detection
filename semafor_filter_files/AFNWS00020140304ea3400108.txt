@@ -1,0 +1,1 @@
+[{'Victim': [u'on Monday night']}, {'Victim': [u'39 people', u'that lasted till around 3 a.m']}, {'Victim': [u'from the direction of the attacked village.aEUR']}, {'Victim': [u'at least 32 people']}, {'Victim': [u'the hapless villagers']}, {'Victim': [u'bomb']}, {'Victim': [u'weapons']}, {'Victim': [u'the houses', u'down seven trucks loaded with goods']}]

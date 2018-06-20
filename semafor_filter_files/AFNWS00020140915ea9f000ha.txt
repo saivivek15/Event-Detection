@@ -1,0 +1,1 @@
+[{'Victim': [u'in his home town']}, {'Victim': [u'with several machete cuts.']}]

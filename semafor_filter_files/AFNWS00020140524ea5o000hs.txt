@@ -1,0 +1,1 @@
+[{'Victim': [u'of over 200 Chibok schoolgirls']}, {'Victim': [u'by Boko Haram']}, {'Victim': [u'over 10 people and setting houses and shops']}]

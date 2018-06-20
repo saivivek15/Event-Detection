@@ -1,0 +1,1 @@
+[{'Victim': [u'area', u'eight persons']}, {'Victim': [u'which', u'several persons']}, {'Victim': [u'about seven persons']}, {'Victim': [u'the attacker']}]

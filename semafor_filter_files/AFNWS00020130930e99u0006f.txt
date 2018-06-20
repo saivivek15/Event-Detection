@@ -1,0 +1,1 @@
+[{'Victim': [u'they']}, {'Victim': [u'travellers']}, {'Victim': [u'one group', u'them']}, {'Victim': [u'guns around']}, {'Victim': [u'guns']}, {'Victim': [u'the attack , scores of travellers']}, {'Victim': [u'at least 20 persons']}, {'Victim': [u'to death of 38 students of the College of Agriculture , Gujba , YobeState', u'of 22 students']}, {'Victim': [u'others']}]

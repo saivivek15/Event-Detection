@@ -1,0 +1,1 @@
+[{'Victim': [u'by the dreaded sect', u'them', u'almost all of them']}, {'Victim': [u'on Thursday morning']}, {'Victim': [u'some of the attackers']}]

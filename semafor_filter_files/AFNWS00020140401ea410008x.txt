@@ -1,0 +1,1 @@
+[{'Victim': [u'at least six people']}, {'Victim': [u'explosives']}, {'Victim': [u'bomb']}, {'Victim': [u'grenades']}, {'Victim': [u'bomb', u'a man suspected of assembling a bomb']}]

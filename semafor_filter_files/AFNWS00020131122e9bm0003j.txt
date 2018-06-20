@@ -1,0 +1,1 @@
+[{'Victim': [u'by arsonists who set his palace on fire']}, {'Victim': [u'to death']}, {'Victim': [u'the house']}]

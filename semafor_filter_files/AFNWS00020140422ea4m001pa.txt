@@ -1,0 +1,1 @@
+[{'Victim': [u'hundreds of civilians']}, {'Victim': [u'hundreds of civilians']}, {'Victim': [u'civilians']}, {'Victim': [u'`` more than 200 civilians']}, {'Victim': [u'Civilians including children']}, {'Victim': [u'strategic']}, {'Victim': [u'scores of rebels']}]

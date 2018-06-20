@@ -1,0 +1,1 @@
+[{'Victim': [u'Monday', u'25 others']}, {'Victim': [u'about 40 houses']}, {'Victim': [u'Shonong community', u'about 30 victims']}, {'Victim': [u'the village']}, {'Victim': [u'mostly children , women and the aged']}, {'Victim': [u'two days before Christmas', u'current']}, {'Victim': [u'some women and children']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'on Huyim village killing nine persons', u'nine persons']}, {'Victim': [u'Dille', u'45 persons']}, {'Victim': [u'Another nine villagers', u'the Boko Haram terrorists']}, {'Victim': [u'the mainly Christian community', u'at every possible target']}]

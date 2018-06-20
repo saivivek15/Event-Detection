@@ -1,0 +1,1 @@
+[{'Victim': [u'bomb']}, {'Victim': [u'device']}, {'Victim': [u'bomb']}, {'Victim': [u'Explosive']}, {'Victim': [u'bomb', u'on Peoples Hotel']}, {'Victim': [u'bomb']}, {'Victim': [u'explosives']}, {'Victim': [u'the five men', u"many of the survivors of the blast. '' Another witness , Usman Hassan"]}, {'Victim': [u'bomb', u'over 12']}]

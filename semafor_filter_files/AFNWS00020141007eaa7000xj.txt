@@ -1,0 +1,1 @@
+[{'Victim': [u'at least seven prominent businessmen']}, {'Victim': [u'a number of village heads']}, {'Victim': [u'everyone in Ngamdu', u'them']}, {'Victim': [u'those']}]

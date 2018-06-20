@@ -1,0 +1,1 @@
+[{'Victim': [u'gun']}, {'Victim': [u'Nine of the fighters from the Gabra side']}, {'Victim': [u'the number of fighters']}, {'Victim': [u'at 15']}]

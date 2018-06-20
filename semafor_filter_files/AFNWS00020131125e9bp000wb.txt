@@ -1,0 +1,1 @@
+[{'Victim': [u'12 persons']}, {'Victim': [u'no fewer than 12 persons']}, {'Victim': [u'the members of the sect in both land and air raids']}, {'Victim': [u'gun', u'of 12 of them']}, {'Victim': [u'12 people , burnt houses']}]

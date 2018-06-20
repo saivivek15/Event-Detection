@@ -1,0 +1,1 @@
+[{'Victim': [u'at least 12 people']}, {'Victim': [u'three soldiers and nine civilians']}, {'Victim': [u'on Villa Somalia', u'suicide']}, {'Victim': [u'against officers of the national security']}, {'Victim': [u'using sheets as makeshift']}, {'Victim': [u'people']}, {'Victim': [u'on a tea shop filled with civilians going about their lives']}]

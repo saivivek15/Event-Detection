@@ -1,0 +1,1 @@
+[{'Victim': [u'At least seven people']}, {'Victim': [u'a Chinese railway worker and a Nigerian']}, {'Victim': [u'property worth millions of naira']}, {'Victim': [u'a mosque and some Fulani']}]

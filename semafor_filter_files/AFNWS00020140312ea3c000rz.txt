@@ -1,0 +1,1 @@
+[{'Victim': [u'by suspected Fulani herdsmen at Tse Aekenyi in Guma Local Government Area of Benue State']}, {'Victim': [u'at Tse Akenyi']}, {'Victim': [u'over 72 villages', u'25 residents in Ukpan']}, {'Victim': [u'incessant']}, {'Victim': [u'these areas']}, {'Victim': [u'the other people']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'UN']}, {'Victim': [u'by unidentified gunmen']}, {'Victim': [u'Another staff member on board of the NGO vehicle and a police officer']}]

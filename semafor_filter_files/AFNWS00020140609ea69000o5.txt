@@ -1,0 +1,1 @@
+[{'Victim': [u'at least eleven citizens', u'on rural villages']}, {'Victim': [u'five people']}, {'Victim': [u'on the town']}, {'Victim': [u'They']}, {'Victim': [u'Five people']}, {'Victim': [u'on Wednesday', u'three butchers']}, {'Victim': [u'on Thursday']}, {'Victim': [u'a citizen']}]

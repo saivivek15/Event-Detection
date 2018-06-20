@@ -1,0 +1,1 @@
+[{'Victim': [u'weekend', u'the community']}, {'Victim': [u'who', u'on Gaidamgari']}, {'Victim': [u'only 29 people']}, {'Victim': [u'on Friday']}, {'Victim': [u'on the village', u'over 60 people.']}, {'Victim': [u'along Bama Maiduguri road']}, {'Victim': [u'along Maiduguri Bama road']}]

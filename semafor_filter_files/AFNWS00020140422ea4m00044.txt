@@ -1,0 +1,1 @@
+[{'Victim': [u'lawmaker', u'bomb']}, {'Victim': [u'lawmaker Isaq Mohamed Rinow']}, {'Victim': [u'bomb']}, {'Victim': [u'anyone who works for the government and does something to help the people']}, {'Victim': [u'on its Radio Andalus Facebook page']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'yesterday']}, {'Victim': [u'at Ikpele and Okpopolo communities in the state', u'seven farmers']}, {'Victim': [u'on our own side']}, {'Victim': [u'the number of deaths', u'i can not confirm the number of deaths']}, {'Victim': [u'seven villages', u'many']}, {'Victim': [u'Agatu']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'At least 20 people', u'a police station in Beledweyne town of central Somalia']}, {'Victim': [u'on the policemen']}, {'Victim': [u'10 Al Shabaab attackers']}]

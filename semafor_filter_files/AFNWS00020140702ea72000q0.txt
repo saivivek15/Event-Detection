@@ -1,0 +1,1 @@
+[{'Victim': [u'bomb']}, {'Victim': [u'at least 15 people']}, {'Victim': [u'over a decade ago']}, {'Victim': [u'bombs', u'more than 50 people']}, {'Victim': [u'Three simultaneous attacks on Monday']}, {'Victim': [u'at least 30 people']}, {'Victim': [u'more than 20 people', u'eight', u'a hotel and brothel in northeast Bauchi city']}, {'Victim': [u'bombs', u'at least 14 people']}]

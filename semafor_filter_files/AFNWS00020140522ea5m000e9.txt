@@ -1,0 +1,1 @@
+[{'Victim': [u'29 people', u'on Borno villages']}, {'Victim': [u'Nine people', u'on Alagarno village of Damboa local government']}, {'Victim': [u'the area']}, {'Victim': [u'19 people', u'19 people']}, {'Victim': [u'eight people']}, {'Victim': [u'two others in nearby Kopchi']}, {'Victim': [u'houses , vehicles and motorcycles']}]

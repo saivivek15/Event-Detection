@@ -1,0 +1,1 @@
+[{'Victim': [u'At least eight persons', u'a major bridge', u'of the Boko Haram']}, {'Victim': [u'our village']}, {'Victim': [u'the village', u'about eight persons']}, {'Victim': [u"with bombs ''", u'bombs']}, {'Victim': [u'on Katarko']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'after an attack by unknown gunmen']}, {'Victim': [u'at least 40 assailants', u'state television headquarters']}]

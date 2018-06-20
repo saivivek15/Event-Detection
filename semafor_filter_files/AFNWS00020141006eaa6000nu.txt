@@ -1,0 +1,1 @@
+[{'Victim': [u'of Mrs']}, {'Victim': [u'alongside her 12-year-old granddaughter']}, {'Victim': [u'those']}, {'Victim': [u'She and her granddaughter']}, {'Victim': [u'gun']}, {'Victim': [u'them']}]

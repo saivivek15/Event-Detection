@@ -1,0 +1,1 @@
+[{'Victim': [u'About 26 people']}, {'Victim': [u'on our communities']}, {'Victim': [u'down last Tuesday and few days', u'later another 20 homes']}, {'Victim': [u'in the past few days']}]

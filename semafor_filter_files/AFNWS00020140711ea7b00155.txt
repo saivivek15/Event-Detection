@@ -1,0 +1,1 @@
+[{'Victim': [u'26 people']}, {'Victim': [u'Those']}, {'Victim': [u'At least three people', u'the village']}, {'Victim': [u'grenade']}, {'Victim': [u'More than 30 people']}, {'Victim': [u'at least nine villages']}, {'Victim': [u'UN']}, {'Victim': [u'on civilians']}, {'Victim': [u'around 50 people , African peacekeeping troops']}, {'Victim': [u'our homeland']}]

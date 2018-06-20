@@ -1,0 +1,1 @@
+[{'Victim': [u'nine persons', u'on Angwan-Waran', u'night']}, {'Victim': [u'before escaping']}]

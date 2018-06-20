@@ -1,0 +1,1 @@
+[{'Victim': [u'in the attacks on the communities', u'on the communities']}, {'Victim': [u'five people']}]

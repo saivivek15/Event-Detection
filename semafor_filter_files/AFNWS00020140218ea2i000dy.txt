@@ -1,0 +1,1 @@
+[{'Victim': [u'after alleged members of the outlawed Boko Haram sect attack Izge Village in Gwoza , Borno State']}, {'Victim': [u'the village on Saturday evening']}, {'Victim': [u'on the hilly village', u'siege on the hilly village']}, {'Victim': [u'93 people']}, {'Victim': [u'weapons']}, {'Victim': [u'on Izge']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'about seven people', u'at Agbaaye , a village on the Benue/Taraba boarder']}, {'Victim': [u'more than 18 people']}]

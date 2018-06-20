@@ -1,0 +1,1 @@
+[{'Victim': [u'Hindi', u'9 people', u'six people among them a police officer']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'a village in Borno', u'at least 35 people']}, {'Victim': [u'the village']}, {'Victim': [u'35 people']}]

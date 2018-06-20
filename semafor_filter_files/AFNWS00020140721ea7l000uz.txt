@@ -1,0 +1,1 @@
+[{'Victim': [u'five people', u'at Fadan Karshi village']}, {'Victim': [u'the local government', u'about 200 people']}, {'Victim': [u'weapons']}, {'Victim': [u'The other person']}, {'Victim': [u'latest']}, {'Victim': [u'about 200 people', u'today']}]

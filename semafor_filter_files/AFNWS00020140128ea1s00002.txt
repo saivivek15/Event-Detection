@@ -1,0 +1,1 @@
+[{'Victim': [u'more than 70 people']}, {'Victim': [u'on villages']}, {'Victim': [u'52 people', u'300 homes in Kawuri village']}, {'Victim': [u"near the village 's weekly market", u'explosives']}, {'Victim': [u'guns']}, {'Victim': [u'26 people', u'a church']}]

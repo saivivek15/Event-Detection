@@ -1,0 +1,1 @@
+[{'Victim': [u'At least 30 people', u'on Shonong village']}, {'Victim': [u'over 40 houses', u'some taken away by the attackers']}, {'Victim': [u'Shonong community', u'over 30 people in the process']}, {'Victim': [u'the village', u'mostly children , women and the aged']}, {'Victim': [u'two days before Christmas']}, {'Victim': [u'over 30 people']}, {'Victim': [u'over 30 people']}]

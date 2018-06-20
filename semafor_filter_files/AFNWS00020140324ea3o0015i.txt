@@ -1,0 +1,1 @@
+[{'Victim': [u'At least eight villages']}, {'Victim': [u'An unknown number of people', u'An unknown number of people']}, {'Victim': [u'weapons']}, {'Victim': [u'the villages of Durma , Uzbani , Juruf , Murtak , Karaw , Faki Nur , Gamar Eldin , Karkar , Ahmedu , Abu Duda and Yahya']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'Six people', u'six others', u'explosives']}, {'Victim': [u'after four explosions targeted a church and a number of drinking joints in two congested parts of Sabon Gari']}, {'Victim': [u'at least 20 people']}]

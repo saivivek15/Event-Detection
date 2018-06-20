@@ -1,0 +1,1 @@
+[{'Victim': [u'a Somali lawmaker']}, {'Victim': [u"Warsame 's driver"]}, {'Victim': [u'Warsame is the fourth lawmaker']}]

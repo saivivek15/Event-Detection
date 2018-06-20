@@ -1,0 +1,1 @@
+[{'Victim': [u'Several people']}, {'Victim': [u'10 women , eight children and four men in the Democratic Republic of Congo -LRB- DRC -RRB- overnight']}, {'Victim': [u'on Thursday']}, {'Victim': [u'villages']}, {'Victim': [u'the ADF-NALU']}]

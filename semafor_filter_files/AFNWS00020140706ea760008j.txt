@@ -1,0 +1,1 @@
+[{'Victim': [u'more than 60 people']}, {'Victim': [u'on coastal Kenyan towns']}, {'Victim': [u'nine people', u'on the town of Gamba']}, {'Victim': [u'Hindi']}, {'Victim': [u'in an attack last month']}, {'Victim': [u'the police station']}, {'Victim': [u'One police officer']}, {'Victim': [u'gun']}, {'Victim': [u'the Westgate shopping mall', u'67 people']}]

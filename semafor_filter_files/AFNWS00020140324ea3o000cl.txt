@@ -1,0 +1,1 @@
+[{'Victim': [u'Five civilians']}, {'Victim': [u'Many civilians']}, {'Victim': [u'us']}, {'Victim': [u'people', u'the village']}, {'Victim': [u"the entire area. ''"]}, {'Victim': [u'civilians']}, {'Victim': [u'arsenal']}]

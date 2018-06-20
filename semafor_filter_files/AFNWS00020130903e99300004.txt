@@ -1,0 +1,1 @@
+[{'Victim': [u'an immigration department officer']}, {'Victim': [u'bomb']}, {'Victim': [u'a technician working with Radio Mogadishu']}, {'Victim': [u'anyone including MPs who speak out against his government']}]

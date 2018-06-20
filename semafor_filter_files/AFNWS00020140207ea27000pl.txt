@@ -1,0 +1,1 @@
+[{'Victim': [u'two villagers', u'three STF men']}, {'Victim': [u'Wase town']}, {'Victim': [u'no one']}, {'Victim': [u'on the same village', u'two residents', u'about 20 houses']}, {'Victim': [u'16 of the attackers', u'three of our men']}, {'Victim': [u'Gun', u'rifle', u'gun']}, {'Victim': [u'three villagers']}, {'Victim': [u'the village']}, {'Victim': [u'those']}]

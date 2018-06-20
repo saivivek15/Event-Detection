@@ -1,0 +1,1 @@
+[{'Victim': [u'A 27-year-old Somali journalist']}, {'Victim': [u'bomb']}, {'Victim': [u'bomb']}, {'Victim': [u'of our colleague']}, {'Victim': [u'Abukar']}]

@@ -1,0 +1,1 @@
+[{'Victim': [u'about 20 residents of Kamuya village']}, {'Victim': [u'on the villagers', u'the villagers', u'dead 20 persons']}, {'Victim': [u'to them']}, {'Victim': [u'guns']}, {'Victim': [u'everything we had']}]

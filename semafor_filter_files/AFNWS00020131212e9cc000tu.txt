@@ -1,0 +1,1 @@
+[{'Victim': [u'those']}, {'Victim': [u'travellers on the Maiduguri-Biu highway']}, {'Victim': [u'on the same road', u'three drivers', u'their two vehicles']}, {'Victim': [u'a passenger bus and a car close to Bulabulin Ngaura village in Damboa Local Government Area']}]

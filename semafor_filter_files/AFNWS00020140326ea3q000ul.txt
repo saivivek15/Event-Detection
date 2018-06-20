@@ -1,0 +1,1 @@
+[{'Victim': [u'on the area of Donki Baashim']}, {'Victim': [u'ten people']}, {'Victim': [u'The Baashim water station', u'its guard']}, {'Victim': [u'at least 15 people', u'more than 30 others']}, {'Victim': [u'Many girls and women']}]

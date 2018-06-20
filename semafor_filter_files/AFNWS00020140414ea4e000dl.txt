@@ -1,0 +1,1 @@
+[{'Victim': [u'on troubled Borno villages and on highways', u'more than 30 people']}, {'Victim': [u'on Government Secondary school in Dikwa', u'eight teachers']}, {'Victim': [u'a boarding school', u'eight teachers']}]

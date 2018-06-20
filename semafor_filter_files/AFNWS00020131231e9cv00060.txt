@@ -1,0 +1,1 @@
+[{'Victim': [u'weapons', u'the Congolese state television station']}, {'Victim': [u'at least 40 people']}, {'Victim': [u'the TV station']}, {'Victim': [u'the television station']}]

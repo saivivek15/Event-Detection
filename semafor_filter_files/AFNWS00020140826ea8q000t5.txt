@@ -1,0 +1,1 @@
+[{'Victim': [u'the border town of Gambouru', u'when crossing the river']}, {'Victim': [u'the village']}, {'Victim': [u'some children and women that can not swim']}, {'Victim': [u'some children and women']}, {'Victim': [u'the exact number of our people']}]
