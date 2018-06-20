@@ -40,6 +40,8 @@ Notes:
 - The input_files contain only a sample of training data set for referecne. Please contact me at sai.vivek15@gmail.com, if interested in discussing more about the project
 
 References:
+
  -> Scraper - https://github.com/openeventdata/scraper 
+ 
  -> Semafor Tool(CMU)- https://github.com/Noahs-ARK/semafor
  (http://www.ark.cs.cmu.edu/SEMAFOR)
